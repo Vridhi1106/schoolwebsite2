@@ -1,0 +1,30 @@
+.my_nav_bar{
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+  text-align: center;
+}
+#marqueeStyle{
+    background-color: midnightblue;
+    color: white;
+}
+img{
+    width: 100%;
+    height: 500px;
+}
+.text-style{
+    font-size:40px;
+}
+p{
+    font-size: 30px;
+}
+.text-achieve{
+    font-size: 25px;
+}
+#achievements p{
+    font-size: 20px;
+}
+.movie_head i{
+    float: right;
+
+    
